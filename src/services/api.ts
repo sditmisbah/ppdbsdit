@@ -98,7 +98,7 @@ const getInitialMockSettings = (): AppSettings => {
       { id: "Kartu Keluarga", label: "Kartu Keluarga", type: "file", required: true },
       { id: "Akta Kelahiran", label: "Akta Kelahiran", type: "file", required: true }
     ],
-    panduanJudul: "Panduan Pendaftaran PPDB",
+    panduanJudul: "Panduan Pendaftaran SPMB",
     panduanDeskripsi: "Persiapkan dokumen berikut sebelum mulai mengisi formulir pendaftaran.",
     panduanPeringatan: "Pastikan semua dokumen di-scan atau difoto dengan jelas dan dapat terbaca. Format file yang disarankan adalah JPG, PNG, atau PDF dengan ukuran maksimal 2MB per file.",
     panduanDokumen: [
